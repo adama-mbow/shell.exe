@@ -1,0 +1,1 @@
+echo im a script
